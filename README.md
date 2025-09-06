@@ -20,3 +20,6 @@ The goal was to create a clean, intuitive, and ad-free solution for anyone who w
 
 With features like real-time analytics and visualization, this app makes personal finance tracking effortless and insightful. 
 It’s designed for individuals who want to build healthier financial habits through better awareness of their expenses.
+
+## OUTPUT ##
+<img width="1909" height="899" alt="Image" src="https://github.com/user-attachments/assets/28472bf8-70f1-43cc-acc6-984f9927a16c" />
