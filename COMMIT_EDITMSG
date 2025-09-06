@@ -1,0 +1,8 @@
+Remove unnecessary logging for audio file uploads
+
+Remove console logs from the audio file upload endpoint in server/routes.ts.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: c6c79abd-2bd7-46bf-862d-f5d800dadc52
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/4f94c25d-05be-4f0e-b278-bc3c0954d67b/c6c79abd-2bd7-46bf-862d-f5d800dadc52/lPtatSk
